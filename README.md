@@ -1,1 +1,1 @@
-# ivan-lyzen.mogo.io
+# MoGo
